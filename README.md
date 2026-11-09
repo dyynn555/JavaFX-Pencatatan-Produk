@@ -27,13 +27,13 @@ Proyek ini adalah modifikasi dari aplikasi praktikum pengantar JavaFX GUI menjad
 ## 📸 Screenshot Aplikasi
 
 **1. Form Tambah Produk**
-![Form Tambah Produk]([Masukkan Link/Path Screenshot Form di sini, contoh: images/form.png])
+![Form Tambah Produk](gambar/form.png)
 
 **2. Halaman Daftar Produk & Pencarian**
-![Daftar Produk]([Masukkan Link/Path Screenshot Tabel di sini, contoh: images/daftar.png])
+![Daftar Produk](gambar/Daftar.png)
 
 **3. Halaman Detail Produk**
-![Detail Produk]([Masukkan Link/Path Screenshot Detail di sini, contoh: images/detail.png])
+![Detail Produk](gambar/Detail.png)
 
 ## 💻 Cara Menjalankan Aplikasi
 Pastikan Maven sudah terinstal dan terkonfigurasi. Jalankan perintah berikut pada terminal di dalam direktori proyek:
